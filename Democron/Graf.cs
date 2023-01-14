@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Democron
 {
-    internal class Graf
+    public class Graf
     {
         public int?[][] TopologicalSortByDemocron(int[][] g)
         {
